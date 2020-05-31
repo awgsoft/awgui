@@ -1,6 +1,6 @@
 # README #
 
-## awgui
+## AWG UI
 
 [AWG.js](https://github.com/awgsoft/awgjs) のGUI
 
@@ -10,7 +10,7 @@
 * Chromeのみ対応
 
 ## 操作画面
-[AWG UI](./index.html)
+[AWG UI](https://awgsoft.github.io/awgui/)
 
 ## 環境構築
 

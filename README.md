@@ -1,6 +1,6 @@
 # README #
 
-## awgui
+## AWG UI
 
 Front end of [AWG.js](https://github.com/awgsoft/awgjs) 
 
@@ -10,7 +10,7 @@ Front end of [AWG.js](https://github.com/awgsoft/awgjs)
 * Chromeのみ対応
 
 ## Screen
-[AWG UI](./index.html)
+[AWG UI](https://awgsoft.github.io/awgui/)
 
 ## Setup
 
